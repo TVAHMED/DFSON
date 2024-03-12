@@ -1,5 +1,4 @@
 
-import requests,zlib,platform
 from rich.table import Table as me
 from rich.console import Console as sol
 from bs4 import BeautifulSoup as sop
