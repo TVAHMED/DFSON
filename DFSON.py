@@ -1,8 +1,4 @@
 
-#os.system("pkg install sox -y")
-#os.system("play op.mp3")
-#os.system("pkg install espeak")
-import urllib3,rich,base64
 import requests,zlib,platform
 from rich.table import Table as me
 from rich.console import Console as sol
