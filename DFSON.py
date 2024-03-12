@@ -22,7 +22,6 @@ ua = ["Mozilla/5.0 (Linux; Android 11; moto g(40) fusion Build/RRI31.Q1-42-51-12
 ugen2=[]
 ugen=[]
 cokbrut=[]
-ses=requests.Session()
 princp=[]
 try:
 	prox= requests.get('https://github.com/Pro-Max-420/Api/blob/main/prox.txt').text
